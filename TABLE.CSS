@@ -1,0 +1,21 @@
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+table {
+    width: 50%;
+}
+.one{
+    background-color: rgb(194, 236, 222);
+}
+thead{
+    background-color: bisque;
+}
